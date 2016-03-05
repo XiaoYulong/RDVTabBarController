@@ -63,8 +63,6 @@
  */
 - (void)setTabBarHidden:(BOOL)hidden animated:(BOOL)animated;
 
-
-
 @end
 
 @protocol RDVTabBarControllerDelegate <NSObject>
